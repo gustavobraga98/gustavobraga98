@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Gustavo Braga and I'm a Machine Learning Engineer and Data Scientist. I'm from Brazil, living in São João Del Rei, MG and currently studying at Universidade Federal de São João Del Rei. And also a member o Cyros there. You can find me on.
+My name is Gustavo Braga and I'm a Machine Learning Engineer and Data Scientist. I'm from Brazil, living in São João Del Rei, MG and currently studying at Universidade Federal de São João Del Rei. And also a member o Cyros there. You can find me on:
 
 ## Social Medias
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-reis-braga-52775516b/)](https://www.linkedin.com/in/gustavo-reis-braga-52775516b/)
